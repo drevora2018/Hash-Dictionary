@@ -1,0 +1,14 @@
+C:\Users\Drevora\source\repos\HashDictionary\HashDictionary\bin\Debug\netcoreapp3.1\HashDictionary.exe
+C:\Users\Drevora\source\repos\HashDictionary\HashDictionary\bin\Debug\netcoreapp3.1\HashDictionary.deps.json
+C:\Users\Drevora\source\repos\HashDictionary\HashDictionary\bin\Debug\netcoreapp3.1\HashDictionary.runtimeconfig.json
+C:\Users\Drevora\source\repos\HashDictionary\HashDictionary\bin\Debug\netcoreapp3.1\HashDictionary.runtimeconfig.dev.json
+C:\Users\Drevora\source\repos\HashDictionary\HashDictionary\bin\Debug\netcoreapp3.1\HashDictionary.dll
+C:\Users\Drevora\source\repos\HashDictionary\HashDictionary\bin\Debug\netcoreapp3.1\HashDictionary.pdb
+C:\Users\Drevora\source\repos\HashDictionary\HashDictionary\obj\Debug\netcoreapp3.1\HashDictionary.csprojAssemblyReference.cache
+C:\Users\Drevora\source\repos\HashDictionary\HashDictionary\obj\Debug\netcoreapp3.1\HashDictionary.AssemblyInfoInputs.cache
+C:\Users\Drevora\source\repos\HashDictionary\HashDictionary\obj\Debug\netcoreapp3.1\HashDictionary.AssemblyInfo.cs
+C:\Users\Drevora\source\repos\HashDictionary\HashDictionary\obj\Debug\netcoreapp3.1\HashDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Drevora\source\repos\HashDictionary\HashDictionary\obj\Debug\netcoreapp3.1\HashDictionary.dll
+C:\Users\Drevora\source\repos\HashDictionary\HashDictionary\obj\Debug\netcoreapp3.1\HashDictionary.pdb
+C:\Users\Drevora\source\repos\HashDictionary\HashDictionary\obj\Debug\netcoreapp3.1\HashDictionary.genruntimeconfig.cache
+C:\Users\Drevora\source\repos\HashDictionary\HashDictionary\bin\Debug\netcoreapp3.1\HashDictionary.dll.config
